@@ -1,5 +1,6 @@
 # Cstars
 A program to generate stars terminal
+
 ![image](https://user-images.githubusercontent.com/86576836/152907509-115b66f1-0f17-4b9d-8244-8e7bde2ec71a.png)
 
 # How to install
