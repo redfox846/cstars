@@ -11,6 +11,8 @@ A program to generate stars terminal
 >sudo mv cstars /usr/bin/ && chmod +x /usr/bin/cstars
 
 # How to use
+````
 Enter "cstars 500" in the terminal
 The 500 is how many stars you want
 This can be what ever number you want
+````
