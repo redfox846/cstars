@@ -5,7 +5,9 @@ A program to generate stars terminal
 
 # How to install
 >git clone https://github.com/redfox846/cstars.git
+
 >cd cstars/
+
 >sudo mv cstars /usr/bin/ && chmod +x /usr/bin/cstars
 
 # How to use
